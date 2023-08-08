@@ -1,0 +1,51 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div{
+    border: 2px solid red;
+    
+}
+.container{
+    width: 480px;
+    height: 370px;
+    margin: auto;
+    margin-top: 10rem;
+    padding: 10px;
+}
+
+ .box{
+    width: 455px;
+    height: 50px;
+    margin-bottom: 10px;
+    padding: 5px;
+    margin-top: 15px;
+}
+
+.text{
+    width: 455px;
+    height: 100px;
+    margin: 20px 0;
+    padding: 10px;
+}
+.list{
+    width: 455px;
+    height: 95px;
+    padding: 5px;
+}
+.list1, .list2{
+    width: 440px;
+    height: 40px;
+    border: 2px solid red;
+    padding: 10px;
+}
+.footer{
+    margin-top:20px;
+}
+input, a{
+    padding: 5px;
+    border: 2px solid red;
+}
+
