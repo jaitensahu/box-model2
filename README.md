@@ -1,5 +1,5 @@
 # box-model2
-Hosted Link https://jaitensahu.github.io/box-model2/
+Hosted Link https://jaitensahu.github.io/box-model2/ <br>
 ![box1](https://github.com/jaitensahu/box-model2/assets/127736781/a8620154-97fb-46f9-a936-ef106d6675e3)
 <br><hr>
 -> used title tag to give the title to the webpage and link tag to link style sheet.
